@@ -1,2 +1,3 @@
 this is before unstaging
 changes made in copy
+third line for difference
